@@ -1,6 +1,6 @@
 {
   "name": "tealodashtest",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a test for Tea",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "TeaLoadashTest"
+    "url": "https://github.com/VladimirNalivaiko/TeaLodashTest"
   },
   "keywords": [
     "tea"
